@@ -13,9 +13,20 @@ Some interesting applications:
 ** Resources
 https://github.com/ageron/handson-ml2
 
+** Requirements
+-[x] docker
+Set up details in https://github.com/ageron/handson-ml2/tree/master/docker
+
 * The ML Landscape
 ML has been around for some time. OCR is a historic application. Back in the 90's the spam filter became a game changer.
 
 ** Why ML?
 - Not applications lend themselves well to traditional algorithmic programming.
-  - Consider a spam filter.
+- Consider a spam filter. This is what a traditional approach might look like:
+  1. Consider what spam lools like. Maybe there are some words or phrases that come up
+  2. Detect the spammy patterns and flag email as spam
+  3. Create some tests to validate
+  4. Launch and profit
+- It may not work out as you expect. Since the rules are fixed, spammers may find ways to circumvent by rephrasing or using different words :(
+
+
