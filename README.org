@@ -5,9 +5,17 @@ Some interesting applications:
 - detect fraud
 - forecast revenue
 
-* Tools that will be leveraged
+** Tools that will be leveraged
 - scikit-learn
 - tensorflow
 - keras
 
+** Resources
+https://github.com/ageron/handson-ml2
+
 * The ML Landscape
+ML has been around for some time. OCR is a historic application. Back in the 90's the spam filter became a game changer.
+
+** Why ML?
+- Not applications lend themselves well to traditional algorithmic programming.
+  - Consider a spam filter.
