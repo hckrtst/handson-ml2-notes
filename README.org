@@ -1,0 +1,13 @@
+* Preface
+Some interesting applications:
+- segments customers to apply proper marketing
+- determine if client would be interested in product based on prior buying history
+- detect fraud
+- forecast revenue
+
+* Tools that will be leveraged
+- scikit-learn
+- tensorflow
+- keras
+
+* The ML Landscape
